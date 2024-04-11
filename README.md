@@ -29,9 +29,9 @@ If you're new to KMP or KMM, here's how you can get started:
 ## Resources
 
 Here are some helpful resources to kickstart your KMP/KMM journey:
-- Official Kotlin Multiplatform documentation: [link](https://kotlinlang.org/docs/multiplatform.html)
-- KMM GitHub repository: [link](https://github.com/Kotlin/kmm)
-- Kotlin Multiplatform Mobile Plugin for Android Studio: [link](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile)
+- Official Kotlin Multiplatform documentation: [![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin-Multiplatform-orange)](https://kotlinlang.org/docs/multiplatform.html)
+- KMM GitHub repository: [![Kotlin Multiplatform Mobile](https://img.shields.io/badge/Kotlin-Multiplatform%20Mobile-blue)](https://github.com/Kotlin/kmm)
+- Kotlin Multiplatform Mobile Plugin for Android Studio: [![Kotlin Multiplatform Mobile Plugin](https://img.shields.io/badge/Plugin-Kotlin%20Multiplatform%20Mobile-green)](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile)
 
 ## Contributions
 
@@ -39,6 +39,6 @@ Contributions to this repository are welcome! Whether it's fixing a typo, adding
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me [here](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to reach out to me [here](mailto:mrysg.test@gmail.com).
 
 Let's embark on this KMM exploration journey together! 🚀
